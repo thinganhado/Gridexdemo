@@ -1,5 +1,5 @@
 
-  # Webpage Design Implementation
+  # GRIDEX Webpage Implementation
 
   This is a code bundle for Webpage Design Implementation. The original project is available at https://www.figma.com/design/syUy9swWgcnILY0gCgO2LH/Webpage-Design-Implementation.
 
@@ -8,4 +8,7 @@
   Run `npm i` to install the dependencies.
 
   Run `npm run dev` to start the development server.
+
+  ## Data folder
+  /datasets/work/dss-deepfake-audio/work/data/datasets/gridex_demo/
   
